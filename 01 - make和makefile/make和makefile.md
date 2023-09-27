@@ -3,13 +3,17 @@
 ## 1.1 make 是一个应用程序
 
 -- 解析源程序之间的 <font color=red>依赖关系</font>
+
 -- 根据依赖关系 <font color=red>自动维护</font> 编译工作
+
 -- 执行宿主操作系统中的各种命令
 
 ## 1.2 makefile 是一个描述文件
 
 -- <font color=red>定义一系列的规则</font> 来指定源文件编译的先后顺序
+
 -- 拥有 <font color=red>特定的语法规则</font>，支持函数定义和函数调用
+
 -- 能够直接集成操作系统中的各种命令
 
 ## 1.3 make 和 makefile 之间的关系
@@ -60,10 +64,13 @@ make
 # 3. 编程实验
 
 [codes/00/make.txt](codes/00/make.txt)
+
 [codes/00/makefile](codes/00/makefile)
+
 ![](images/mintty.2023-09-27_10-17-06.png)
 
 [codes/01/Makefile](codes/01/Makefile)
+
 ![](images/mintty.2023-09-27_10-18-15.png)
 
 
